@@ -1,5 +1,5 @@
-# Algorithms, NTUEE (Fall 2017)
-# Intersection Manager
+// Algorithms, NTUEE (Fall 2017)
+// Intersection Manager
 
 #include <stdio.h>
 #include <math.h>
